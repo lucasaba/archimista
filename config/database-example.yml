@@ -6,7 +6,7 @@
 #
 # MySQL
 # production:
-#  adapter: mysql
+#  adapter: mysql2
 #  encoding: utf8
 #  database: archimista_production
 #  pool: 5
